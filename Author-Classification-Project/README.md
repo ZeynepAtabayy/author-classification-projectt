@@ -41,5 +41,3 @@ Each model is evaluated using the following metrics:
 - **Confusion Matrix (in some notebooks)**
 
 ---
-
-## 📂 Folder Structure
